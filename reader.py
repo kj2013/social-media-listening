@@ -16,7 +16,7 @@ def clean(content):
     return content
 
 count=0
-fl = open("C:\\Users\\jaidka\\Desktop\\election_dump.sql","r")
+fl = open("twitter_dump.sql","r")
 f2 = open("randomfile","w")
 
 month='Jan'

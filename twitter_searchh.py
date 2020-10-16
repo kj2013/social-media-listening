@@ -17,7 +17,6 @@ from scipy.misc import imread
 from collections import Counter
 from nltk.corpus import stopwords
 import vincent
-import matplotlib.pyplot as plt
 import random
 import pandas
 from collections import Counter

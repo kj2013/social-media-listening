@@ -36,14 +36,6 @@ dataset=pd.DataFrame()
 ```
 
 #### Now traverse the Key list and fetch the reddit data. Some key parameters in url.
-#### 1) q: Keyword name
-#### 2) subreddit: Subreddit name (eg. CasualConv or Offmychest)
-#### 3) filter: Required data I need from the JSON fetched for a particular keyword.
-#### 4) size: Maximum number of post fetched.
-#### 5) after & before: Timespan of the posts fecthed.
-#### 6) sort_type: The way in which posts are sorted (eg. sort by score or date of publish)
-#### 7) sort: Sort order i.e. ascending or descending.
-
 #### Fetched the data for all keywords of "Key" list and appended the data all together to generate single CSV file i.e. "dataset".
 
 code below
